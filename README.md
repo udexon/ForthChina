@@ -3,6 +3,8 @@ Forth China 中华符式
 
 中华符式 Forth Phos 群
 
+- [Phos 入门简介](https://github.com/udexon/ForthChina/blob/main/%E5%85%A5%E9%97%A8%E7%AE%80%E4%BB%8B.md)
+
 Forth 符式 是一套公开、 既先进、 又涉及基础尖端软件工程、 电脑数学、 处理器设计的程序语言。
 
 本群宗旨有三个层面：
