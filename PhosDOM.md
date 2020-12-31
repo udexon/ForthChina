@@ -5,7 +5,8 @@
 - https://youtu.be/E1RbN4RN44U
 
 
-HTML 全名 hypertext markup language, 经过 符式道的改良， M 终于可以改成 Meta , 即 hypertext metalanguage 了。
+HTML 全名 hypertext markup language, 经过 符式道
+Phosway 的改良， M 终于可以改成 Meta , 即 hypertext metalanguage 了。
 
 Meta 中文就是 元计算， 元编程。
 
@@ -26,11 +27,3 @@ Metatron 有 自我意识 到含义。 Tron 物件， 机器， 神， 道家的
 最接近 同相性 的语言， 只有 Forth 和 LISP 。
 
 JavaScript 必须经过 符式道 的改良， 才能成为 同相性语言。
-
-
-PhosDOM 符式道 html DOM 网页内修改网页 DOM 
-
-http://www.bilibili.com/video/BV1664y1Z7wQ
-
-https://youtu.be/E1RbN4RN44U
-
