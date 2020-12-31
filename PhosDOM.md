@@ -1,8 +1,8 @@
 ## PhosDOM 符式道 html DOM 网页内修改网页 DOM 
 
-http://www.bilibili.com/video/BV1664y1Z7wQ
+- http://www.bilibili.com/video/BV1664y1Z7wQ
 
-https://youtu.be/E1RbN4RN44U
+- https://youtu.be/E1RbN4RN44U
 
 
 HTML 全名 hypertext markup language, 经过 符式道的改良， M 终于可以改成 Meta , 即 hypertext metalanguage 了。
